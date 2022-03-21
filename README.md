@@ -10,7 +10,12 @@ Performing analysis on Kickstarter data to discover trends from 2009-2017
 
 * Technology was ranked third overall in category backing, with 15% of total outcomes
   * Technology had $19,665,020 total successful pledges, 48% of total successful pledged. It ranked first overall.
-  * 
+  * Technology had 209 successful outcomes (5%), 209 failed outcomes (5%), and no live outcomes.
+
+
+![Successful Pledges](https://user-images.githubusercontent.com/101659146/159342168-798eb84b-4185-4608-95f8-00c2328820dd.png)
+
+
 
 
 ![Descriptive analysis](https://user-images.githubusercontent.com/101659146/159207675-cca53a35-7dc9-4531-a3c8-b10c0f2112eb.png)
