@@ -18,6 +18,9 @@ Succuessful campaigns for the theater category were the most volatile based on l
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals.png](https://github.com/Bransblu/kickstarter-analysis/blob/main/Images/Outcomes_vs_Goals.png?raw=true)
+
+
 ### Challenges and Difficulties Encountered
 There were challenges faced when organizing data for **Outcomes Based on Goals**, specifically referring to pledge data instead of goal data. This is was due to human error. Another challenge during the project was creating rows in the middle of the spreadsheet instead of adding at the end, ultimately creating incorrect referrences to rows.
 
@@ -45,11 +48,11 @@ There were challenges faced when organizing data for **Outcomes Based on Goals**
   * Technology had 209 successful outcomes (5%), 209 failed outcomes (5%), and no live outcomes.
 
 
-![Successful Pledges](https://user-images.githubusercontent.com/101659146/159342168-798eb84b-4185-4608-95f8-00c2328820dd.png)
 
 
 
 
-![Descriptive analysis](https://user-images.githubusercontent.com/101659146/159207675-cca53a35-7dc9-4531-a3c8-b10c0f2112eb.png)
+
+
 
 
