@@ -6,19 +6,20 @@
 Performing analysis on Kickstarter data to discover trends from 2009-2017
 
 ### Purpose
-Determine how different campaigns fared in relation to launch dates and funding goals. The project includes creating and displaying visualization for **Outcomes Based on Launch Date** and **Outcomes Based on Goals**. 
+Determine how different campaigns fared in relation to launch dates and funding goals. The project includes creating and displaying visualization for **Outcomes Based on Launch Date** and **Outcomes Based on Goals**. The purpose of this data is to learn why some Kickstarters succeed and fail.
 
 
 ## Analysis and Challenges
-Analyzing the outcomes and their relations to both goals and launch date allowed two different perspectives to better spot trends. 
-
-There were challenges faced when organizing data for **Outcomes Based on Goals**, specifically referring to pledge data instead of goal data. This is was due to human error. Another challenge during the project was creating rows in the middle of the spreadsheet instead of adding at the end, ultimately creating incorrect referrences to rows.
 
 ### Analysis of Outcomes Based on Launch Date
+Succuessful campaigns were the most volatile based on launch dates. The max value for successful campaigns occured in May and June (234 and 211). The minimum value for successful campaigns occured in December (111). 
+
+
 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+There were challenges faced when organizing data for **Outcomes Based on Goals**, specifically referring to pledge data instead of goal data. This is was due to human error. Another challenge during the project was creating rows in the middle of the spreadsheet instead of adding at the end, ultimately creating incorrect referrences to rows.
 
 ## Results
 
