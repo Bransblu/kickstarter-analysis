@@ -31,6 +31,10 @@ There are some clear trends regarding campaign outcomes and the relation to camp
 
 There were challenges faced when organizing data for **Outcomes Based on Goals**, specifically referring to pledge data instead of goal data. This is was due to human error. Another challenge during the project was creating rows in the middle of the spreadsheet instead of adding at the end, ultimately creating incorrect referrences to rows.
 
+![Screenshot excel1.png](https://github.com/Bransblu/kickstarter-analysis/blob/main/Images/Screenshot%20excel1.png?raw=true)
+
+The $D:$D range (goal row) was originally set to $E:$E and displayed incorrect data.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
