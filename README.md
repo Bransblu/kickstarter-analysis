@@ -1,18 +1,18 @@
 
 
-
-
-
-
-
-
 # Kickstarting with Excel
-Performing analysis on Kickstarter data to discover trends from 2009-2017
+
 ## Overview of Project
+Performing analysis on Kickstarter data to discover trends from 2009-2017
 
 ### Purpose
+Determine how different campaigns fared in relation to launch dates and funding goals. The project includes creating and displaying visualization for **Outcomes Based on Launch Date** and **Outcomes Based on Goals**. 
+
 
 ## Analysis and Challenges
+Analyzing the outcomes and their relations to both goals and launch date allowed two different perspectives to better spot trends. 
+
+There were challenges faced when organizing data for **Outcomes Based on Goals**, specifically referring to pledge data instead of goal data. This is was due to human error. Another challenge during the project was creating rows in the middle of the spreadsheet instead of adding at the end, ultimately creating incorrect referrences to rows.
 
 ### Analysis of Outcomes Based on Launch Date
 
