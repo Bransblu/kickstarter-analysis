@@ -12,9 +12,9 @@ Determine how different campaigns fared in relation to launch dates and funding 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Succuessful campaigns were the most volatile based on launch dates. The max value for successful campaigns occured in May and June (234 and 211). The minimum value for successful campaigns occured in December (111). 
+Succuessful campaigns for the theater category were the most volatile based on launch dates. The max value for successful campaigns occured in May and June (111 and 100). The minimum value for successful campaigns occured in December (37). 
 
-
+![Theater_Outcomes_vs_Launch.png](https://github.com/Bransblu/kickstarter-analysis/blob/main/Images/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
