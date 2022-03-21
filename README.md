@@ -1,5 +1,36 @@
-## An analysis of Kickstarter campaigns
+
+
+
+
+
+
+
+
+# Kickstarting with Excel
 Performing analysis on Kickstarter data to discover trends from 2009-2017
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
+
+----
 
 * Overly ambitious Kickstarter goals failed at a higher rate than lower, more reasonable Kickstarter goals
     * Goals that were part of the upper quartile (top 25%) failed at a higher rate than Kickstarter goals with lower quartile (bottom 25%).
@@ -19,3 +50,5 @@ Performing analysis on Kickstarter data to discover trends from 2009-2017
 
 
 ![Descriptive analysis](https://user-images.githubusercontent.com/101659146/159207675-cca53a35-7dc9-4531-a3c8-b10c0f2112eb.png)
+
+
