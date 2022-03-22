@@ -50,11 +50,11 @@ There are some clear trends regarding campaign outcomes and the relation to camp
 
 - **What are some limitations of this dataset?**
 
-
+Outliers hold back the data. For example, the top pledge was 3Doodler for $2,344,134 while the following top pledges didn't even equal $2,000,000 together. On the other side of the data, the bottom 400 pledges are all 0. The currency and country data helps avoid incorrect exchanges, but the data could easily be miscalculated if comparing two different currencies without acknowledging the difference.
 
 - **What are some other possible tables and/or graphs that we could create?**
 
-A table showing the correlation between a campaign being designated as a staff pick vs. a spotlight campaign in relation to outcomes would be a valuable tool to see the impact of those designations. Another possible table/chart combination could include a deeper dive into technology subcategories to determine which were the most successful and profitable campaigns.
+A table showing the correlation between a campaign being designated as a staff pick vs. a spotlight campaign in relation to outcomes would be a valuable tool to see the impact of those designations. Another possible table/chart combination could include a deeper dive into technology subcategories to determine which were the most successful and profitable campaigns. A chart showing the backer count, pledge, and average donation could help show more trends. 
 
 ----
 
