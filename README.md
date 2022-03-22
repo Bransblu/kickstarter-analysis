@@ -47,7 +47,7 @@ Succuessful campaigns for the theater category were the most volatile based on l
 
 - **What can you conclude about the Outcomes based on Goals?**
 
-There are some clear trends regarding campaign outcomes and the relation to campaign goals. First, the greater the goal amount, the lower the successful outcomes were. Successful outcomes were 71% at a goal less than $1000 while the successful outcomes were only 19% at $50,000 or greater. Failed outcomes increased with the greater the goal amount. Failed outcomes occured at a 25% rate at less than $1000 while occuring 58% of the time with a goal of $50,000 or greater. 
+There are some clear trends regarding campaign outcomes and the relation to campaign goals. First, the greater the goal amount, the lower the rate of successful outcomes were. Successful outcomes were 76% at a goal less than $1000 while the successful outcomes were only 13% at $50,000 or greater. Failed outcomes increased with the greater the goal amount. Failed outcomes occured at a 24% rate at less than $1000 while occuring 88% of the time with a goal of $50,000 or greater. There were no canceled outcomes for the play campaigns.
 
 - **What are some limitations of this dataset?**
 
